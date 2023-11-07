@@ -1,2 +1,2 @@
 Airat_Amerkhanov
-Python
+python
